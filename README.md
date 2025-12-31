@@ -1,16 +1,35 @@
-## Hi there 👋
+# Anveshna here 👋  
 
-<!--
-**Anveshna2025-droid/Anveshna2025-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student • Curious mind • Code first, panic later  
 
-Here are some ideas to get you started:
+I like building small things on the web, breaking them on purpose, and then fixing them at 2 AM while learning the fundamentals properly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I work with
+
+- Java & Python  
+- HTML, CSS and a bit of JS  
+- Git, GitHub, VS Code & Linux  
+
+
+---
+
+### 🚧 Currently
+
+- Making tiny projects to learn design + logic  
+- Improving how I write and organize code  
+- Slowly getting into DSA and core CS fundamentals  
+
+---
+
+### 🎯 Next steps
+
+- Ship cleaner, more polished projects  
+- Improve problem‑solving every week  
+
+---
+
+### 🌐 Find me here
+
+- GitHub: *you’re already here* 🤷🏻‍♀️
