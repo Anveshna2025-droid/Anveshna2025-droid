@@ -1,55 +1,55 @@
-# Hi there, I'm Anveshna! 👋
+# Anveshna here 👋  
 
-### 🚀 "Code first, panic later — and fix it at 2 AM."
+**CSE student • Curious mind • Code first, panic later**
 
-I'm a Computer Science & Engineering student who loves building things for the web, breaking them on purpose, and reverse-engineering them to truly understand the fundamentals. Currently balancing academic core concepts with hands-on development.
-
----
-
-## 🛠️ My Tech Stack & Tools
-
-### 💻 Languages & Frontend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Tools, Environment & OS
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I like building small things on the web, breaking them on purpose, and then fixing them at 2 AM while learning the fundamentals properly.
 
 ---
 
-## 🚧 Current Focus & Learning Journey
+### 💻 What I work with
 
-* **Frontend Mastery:** Deep-diving into the React.js ecosystem (Hooks, Context API, and state management) to build clean, functional UI/UX.
-* **Problem Solving:** Sharpening my algorithmic thinking and Data Structures & Algorithms (DSA) every single week.
-* **Software Engineering Core:** Moving past "just making it work" toward writing organized, modular, and maintainable code.
+<!-- Languages -->
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Frontend & Logic -->
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Tools & OS -->
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎯 Next Milestones
+### 🚧 Currently
 
-- [ ] Ship 3 highly-polished React projects with robust logic.
-- [ ] Maintain a consistent problem-solving streak to master core DSA patterns.
-- [ ] Contribute to my first open-source project.
+* 🧩 **Deep in DSA:** Grinding problem-solving patterns and core CS logic.
+* 🎨 **Making tiny projects:** Learning design + logic using React.
+* 🧼 **Improving:** Writing cleaner, more organized, and modular code.
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 Next steps
+
+- [ ] Ship cleaner, more polished projects
+- [ ] Improve problem‑solving streak every single week
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Anveshna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Anveshna's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Anveshna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117" alt="Anveshna's Streak Stats" width="48%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Find me here
 
-* **GitHub:** You are already exploring my digital workshop! 🛠️
-* **LinkedIn:** [Your Name/Link] *(Optional: Drop your link here once you're ready!)*
+* **GitHub:** *you’re already here* 🤷🏻‍♀️
+* **LinkedIn:** [Anveshna .](https://www.linkedin.com/in/anveshnax/)
