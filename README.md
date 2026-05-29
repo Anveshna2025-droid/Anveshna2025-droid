@@ -40,11 +40,10 @@ I like building small things on the web, breaking them on purpose, and then fixi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Anveshna's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117" alt="Anveshna's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anveshna2025-droid&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Anveshna's GitHub Stats" width="55%" />
 </p>
 
 ---
