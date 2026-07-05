@@ -132,7 +132,11 @@
 
 **🧊 Isometric Contributions**
 
-<img width="90%" src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=Anveshna2025-droid&theme=nord"/>
+<!-- Once the GitHub Action runs, replace this line with:
+<img width="90%" src="profile-3d-contrib/FILENAME.svg"/>
+Pick FILENAME from the profile-3d-contrib folder that appears in your repo. -->
+
+<em>coming soon — see setup steps below ⬇️</em>
 
 </div>
 
@@ -148,10 +152,10 @@
 <a href="https://x.com/anveshnaX" target="_blank">
   <img src="https://img.shields.io/badge/X-3c096c?style=for-the-badge&logo=x&logoColor=e0aaff"/>
 </a>
-<a href="mailto:anveshna2025@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anveshna2025@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-3c096c?style=for-the-badge&logo=gmail&logoColor=e0aaff"/>
 </a>
-<a href="mailto:anve2504@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anve2504@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email_(alt)-3c096c?style=for-the-badge&logo=gmail&logoColor=e0aaff"/>
 </a>
 
