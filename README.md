@@ -1,37 +1,174 @@
-# Anveshna here 👋  
+<div align="center">
 
-**CSE student • Curious mind • Code first, panic later**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3c096c,100:10002b&height=260&section=header&text=Anveshna&fontSize=85&fontColor=e0aaff&animation=twinkling&fontAlignY=40&desc=exploring%20the%20CS%20universe%2C%20one%20language%20at%20a%20time&descAlignY=60&descSize=18&descColor=c77dff" width="100%"/>
 
-I like building small things on the web, breaking them on purpose, and then fixing them at 2 AM while learning the fundamentals properly.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&background=00000000&lines=explorer+of+code%2C+curious+by+default+%F0%9F%8C%8C;python+.+java+.+react+.+and+counting;turning+curiosity+into+code+%E2%9C%A8" />
+</a>
 
----
+<br/><br/>
 
-### 💻 What I work with
+<img src="https://komarev.com/ghpvc/?username=Anveshna2025-droid&style=flat-square&color=9d4edd&label=VISITORS" />
+<img src="https://img.shields.io/badge/status-exploring-9d4edd?style=flat-square" />
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Tools & OS** | ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+</div>
 
----
+<img src="assets/divider.svg" width="100%" height="30"/>
 
-### 🚧 Currently
+<div align="center">
 
-* 🧩 **Deep in DSA:** Grinding problem-solving patterns and core CS logic.
-* 🎨 **Making tiny projects:** Learning design + logic using React.
-* 🧼 **Improving:** Writing cleaner, more organized, and modular code.
+## 🪐 Tech Stack
 
----
+<br/>
 
-### 🎯 Next steps
+### 💻 Languages
 
-- [ ] Ship cleaner, more polished projects
-- [ ] Improve problem‑solving streak every single week
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark&perline=4" width="340"/>
 
----
+<br/><br/>
 
-### 🌐 Find me here
+### 📊 Data & Python Tools
 
-* **GitHub:** *you’re already here* 🤷🏻‍♀️
-* **LinkedIn:** [Anveshna .](https://www.linkedin.com/in/anveshnax/)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3c096c?style=for-the-badge&logo=python&logoColor=e0aaff"/>
+<img src="https://img.shields.io/badge/OpenCV-3c096c?style=for-the-badge&logo=opencv&logoColor=e0aaff"/>
+
+<br/><br/>
+
+### 🎨 Web & Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" width="260"/>
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,discord,figma,notion&theme=dark&perline=8" width="680"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,aws,ts,tailwind,powershell,md&theme=dark&perline=6" width="510"/>
+<br/>
+<img src="https://img.shields.io/badge/Canva-3c096c?style=for-the-badge&logoColor=e0aaff"/>
+
+<br/><br/>
+
+### 🧠 Concepts & Interests
+
+<img src="https://img.shields.io/badge/Virtual_DOM-3c096c?style=for-the-badge&logo=react&logoColor=e0aaff"/>
+<img src="https://img.shields.io/badge/React_Hooks-3c096c?style=for-the-badge&logo=react&logoColor=e0aaff"/>
+<img src="https://img.shields.io/badge/Context_API-3c096c?style=for-the-badge&logo=react&logoColor=e0aaff"/>
+<img src="https://img.shields.io/badge/State_Management-7b2cbf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-7b2cbf?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Data_Structures-9d4edd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-9d4edd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Competitive_Programming-c77dff?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Drone_Programming-e0aaff?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Automation-e0aaff?style=for-the-badge&logoColor=black"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" height="30"/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**📊 Stats**
+
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Anveshna2025-droid&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**🔥 Streak**
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Anveshna2025-droid&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**🌙 Top Languages**
+
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anveshna2025-droid&layout=donut&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**🏆 Trophies**
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anveshna2025-droid&theme=midnight-purple&no-frame=true&row=2&column=2"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**✨ Activity**
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anveshna2025-droid&theme=github-compact&color=c77dff&line=e0aaff&point=ffffff&hide_border=true&bg_color=0d0221"/>
+
+<br/><br/>
+
+**🧊 Isometric Contributions**
+
+<img width="90%" src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=Anveshna2025-droid&theme=nord"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" height="30"/>
+
+<div align="center">
+
+**📬 Reach Me**
+
+<a href="https://www.linkedin.com/in/anveshnax/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-3c096c?style=for-the-badge&logo=linkedin&logoColor=e0aaff"/>
+</a>
+<a href="https://x.com/anveshnaX" target="_blank">
+  <img src="https://img.shields.io/badge/X-3c096c?style=for-the-badge&logo=x&logoColor=e0aaff"/>
+</a>
+<a href="mailto:anveshna2025@gmail.com">
+  <img src="https://img.shields.io/badge/Email-3c096c?style=for-the-badge&logo=gmail&logoColor=e0aaff"/>
+</a>
+<a href="mailto:anve2504@gmail.com">
+  <img src="https://img.shields.io/badge/Email_(alt)-3c096c?style=for-the-badge&logo=gmail&logoColor=e0aaff"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/quote.svg" width="70%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:10002b,50:3c096c,100:0d0221&height=120&section=footer" width="100%"/>
