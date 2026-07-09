@@ -90,37 +90,21 @@
 
 **🔥 Streak**
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Anveshna2025-droid&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**🌙 Top Languages**
-
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anveshna2025-droid&layout=donut&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**🏆 Trophies**
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anveshna2025-droid&theme=midnight-purple&no-frame=true&row=2&column=2"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Anveshna2025-droid&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**🌙 Top Languages**
+
+<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anveshna2025-droid&layout=donut&theme=midnight-purple&hide_border=true"/>
+
+</div>
 
 <div align="center">
 
@@ -132,7 +116,11 @@
 
 **🧊 Isometric Contributions**
 
-<em>coming soon⬇️</em>
+<!-- Once the GitHub Action runs, replace this line with:
+<img width="90%" src="profile-3d-contrib/FILENAME.svg"/>
+Pick FILENAME from the profile-3d-contrib folder that appears in your repo. -->
+
+<em>coming soon — see setup steps below ⬇️</em>
 
 </div>
 
