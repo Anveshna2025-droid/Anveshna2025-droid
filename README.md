@@ -116,11 +116,7 @@
 
 **🧊 Isometric Contributions**
 
-<!-- Once the GitHub Action runs, replace this line with:
-<img width="90%" src="profile-3d-contrib/FILENAME.svg"/>
-Pick FILENAME from the profile-3d-contrib folder that appears in your repo. -->
-
-<em>coming soon — see setup steps below ⬇️</em>
+<img width="90%" src="profile-3d-contrib/profile-night-green.svg"/>
 
 </div>
 
