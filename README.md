@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:3c096c,100:10002b&height=260&section=header&text=Anveshna&fontSize=85&fontColor=e0aaff&animation=twinkling&fontAlignY=40&desc=exploring%20the%20CS%20universe%2C%20one%20language%20at%20a%20time&descAlignY=60&descSize=18&descColor=c77dff" width="100%"/>
 
-<img src="assets/comet.svg" width="100%"/>
+<img src="assets/orbit.svg" width="220"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&background=00000000&lines=explorer+of+code%2C+curious+by+default+%F0%9F%8C%8C;python+.+java+.+react+.+and+counting;turning+curiosity+into+code+%E2%9C%A8" />
