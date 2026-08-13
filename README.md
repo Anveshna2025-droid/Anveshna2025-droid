@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anveshna2025-droid&style=flat-square&color=9d4edd&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=anveshna25&style=flat-square&color=9d4edd&label=VISITORS" />
 <img src="https://img.shields.io/badge/status-exploring-9d4edd?style=flat-square" />
 
 </div>
@@ -81,7 +81,7 @@
 
 **📊 Stats**
 
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Anveshna2025-droid&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=anveshna25&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 </div>
 
@@ -92,7 +92,7 @@
 
 **🔥 Streak**
 
-<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Anveshna2025-droid&theme=midnight-purple&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=anveshna25&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 
 **🌙 Top Languages**
 
-<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anveshna2025-droid&layout=donut&theme=midnight-purple&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anveshna25&layout=donut&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -112,7 +112,7 @@
 
 **✨ Activity**
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anveshna2025-droid&theme=github-compact&color=c77dff&line=e0aaff&point=ffffff&hide_border=true&bg_color=0d0221"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anveshna25&theme=github-compact&color=c77dff&line=e0aaff&point=ffffff&hide_border=true&bg_color=0d0221"/>
 
 <br/><br/>
 
@@ -143,7 +143,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Anveshna2025-droid/Anveshna2025-droid/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/anveshna25/anveshna25/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
