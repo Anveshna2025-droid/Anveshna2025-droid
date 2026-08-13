@@ -81,7 +81,7 @@
 
 **📊 Stats**
 
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=anveshna25&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="100%" src="profile/stats.svg"/>
 
 </div>
 
@@ -104,7 +104,7 @@
 
 **🌙 Top Languages**
 
-<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anveshna25&layout=donut&theme=midnight-purple&hide_border=true"/>
+<img width="60%" src="profile/top-langs.svg"/>
 
 </div>
 
